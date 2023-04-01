@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/JoseSleiter" target="_blank">
-    <img width="40em" height="40em" src="https://svgshare.com/i/mGE.svg">
+    <img width="40em" height="40em" src="https://svgshare.com/i/rd7.svg">
   </a>
 </p
 
@@ -33,6 +33,7 @@ I'm a Software Engineer and full stack developer based in Colombia CO, specializ
 
 
 <!-- COMMENTS
+https://svgshare.com/i/mGE.svg
 
 **JoseSleiter/JoseSleiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
